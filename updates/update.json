@@ -1,6 +1,6 @@
 
 {
-  "latest_version": "0.1.0",
+  "latest_version": "0.2.0",
   "force": false,
   "changelog": [
     {
@@ -16,5 +16,5 @@
       "en": "General stability fixes"
     }
   ],
-  "download_url": "https://raw.githubusercontent.com/DevKabah/devz-launcher-updates/main/updates/DevzLauncherSetup.exe"
+  "download_url": "https://raw.githubusercontent.com/AbuAlqasm/DevzLauncher/main/updates/DevzLauncherSetup.exe"
 }
