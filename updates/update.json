@@ -1,1 +1,20 @@
 
+{
+  "latest_version": "0.1.0",
+  "force": false,
+  "changelog": [
+    {
+      "ar": "إضافة نظام التحديثات التلقائي",
+      "en": "Added automatic update system"
+    },
+    {
+      "ar": "تحسينات في واجهة المستخدم وتنسيق القوائم",
+      "en": "UI improvements and layout polishing"
+    },
+    {
+      "ar": "إصلاحات عامة لثبات الأداء",
+      "en": "General stability fixes"
+    }
+  ],
+  "download_url": "https://raw.githubusercontent.com/DevKabah/devz-launcher-updates/main/updates/DevzLauncherSetup.exe"
+}
